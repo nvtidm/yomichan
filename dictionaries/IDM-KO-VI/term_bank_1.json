@@ -1,4 +1,22 @@
 [
-["nhiều hàng","phát âm","từ loại","ký hiệu",1,["eh"],1,"초급"],
-["nhiều hàng","phát âm","từ loại","ký hiệu",1,["eh"],1,"초급"]
+["해물","","명사","",1["hải sản/n신선한 해물을 시장에서 살 수 있어요./nBạn có thể mua hải sản tươi tại chợ./n"],1,""],
+["파전","","명사","",1["bánh chả, món bánh truyền thống của Hàn Quốc/n저녁에 친구들과 파전을 함께 먹었어요./nTối qua tôi đã cùng bạn bè ăn bánh chả./n"],1,""],
+["김치전","","명사","",1["bánh kimchi, một loại bánh truyền thống với nhân kimchi/n김치전은 매운 맛이 좋아요./nBánh kimchi có vị cay rất ngon./n"],1,""],
+["전","","명사","",1["bánh, món chiên/n한국에서는 어떤 종류의 전도 다양하게 먹어요./nỞ Hàn Quốc, có nhiều loại bánh chiên khác nhau./n"],1,""],
+["소리","","명사","",1["âm thanh/n바다에서 파도 소리를 듣는 게 좋아요./nNghe tiếng sóng biển ở bãi biển rất thú vị./n"],1,""],
+["빗소리","","명사","",1["tiếng mưa rơi/n빗소리를 듣는 건 나를 안정시켜줘요./nNghe tiếng mưa rơi làm tôi cảm thấy yên bình./n"],1,""],
+["오징어","","명사","",1["mực/n오징어 요리는 한국 음식의 중요한 부분이에요./nMón ăn từ mực là một phần quan trọng của ẩm thực Hàn Quốc./n"],1,""],
+["새우","","명사","",1["tôm/n해산물 중에서 새우가 제일 좋아요./nTrong các loại hải sản, tôi thích tôm nhất./n"],1,""],
+["조개","","명사","",1["sò, ngao/n조개찜은 가족과 함께 나누기 좋은 음식이에요./nMón sò hấp là món ăn thích hợp để chia sẻ cùng gia đình./n"],1,""],
+["밀가루","","명사","",1["bột mì/n빵을 만들기 위해서는 밀가루가 필요해요./nĐể làm bánh, cần phải có bột mì./n"],1,""],
+["물","","명사","",1["nước/n물을 끓여서 차를 만들어요./nTôi đun nước để làm trà./n"],1,""],
+["반죽","","명사","",1["bột trộn, cục bột/n반죽을 잘 빚어서 빵을 만들었어요./nTôi đã trộn bột cẩn thận để làm bánh./n"],1,""],
+["프라이팬","","명사","",1["chảo chiên/n프라이팬에 기름을 두르고 계란을 볶아요./nTôi đổ dầu vào chảo và rán trứng./n"],1,""],
+["기름","","명사","",1["dầu/n요리할 때 기름을 적게 사용하는 것이 건강에 좋아요./nSử dụng ít dầu khi nấu ăn tốt cho sức khỏe./n"],1,""],
+["앞쪽","","명사","",1["mặt trước, mặt phía trước/n차의 앞쪽에 사람이 앉아 있어요./nCó người ngồi ở phía trước của xe./n"],1,""],
+["뒤쪽","","명사","",1["mặt sau, mặt phía sau/n뒤쪽 창문을 열어서 바람을 들여보세요./nHãy mở cửa sổ phía sau để thổi gió vào./n"],1,""],
+["익다","","동사","v",1["chín, chín đều/n과일이 익으면 달콤하고 맛있어요./nKhi trái cây chín, chúng ngọt và ngon./n"],1,""],
+["맛있다","","형용사","adj",1["ngon/n이 레스토랑에서는 음식이 맛있어요./nNhà hàng này có thức ăn ngon./n"],1,""],
+["방법","","명사","",1["cách, phương pháp/n어떻게 한국어를 배울지 좋은 방법을 찾아보세요./nHãy tìm cách học tiếng Hàn hiệu quả./n"],1,""],
+["만들다","","동사","v",1["làm, chế biến/n이번 주말에는 함께 빵을 만들어 먹어볼까요?/nCuối tuần này, chúng ta cùng làm bánh và thử ăn nhé./n"],1,""]
 ]
